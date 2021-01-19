@@ -1,0 +1,10 @@
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\bin\Debug\Models.dll.config
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\bin\Debug\Models.dll
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\bin\Debug\Models.pdb
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\bin\Debug\EntityFramework.dll
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\bin\Debug\EntityFramework.xml
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\obj\Debug\Models.dll
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\obj\Debug\Models.pdb
+D:\HKI-Nam4\PhatTrienPhanMemChuyenNghiep\PTPMCN\KTX\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
